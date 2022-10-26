@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://notordinaryblogger.com/wp-content/uploads/2020/06/Kelebihan-Kekurangan-Ecommerce.png')",
         },
       },
     },
